@@ -1,3 +1,15 @@
+:root {
+  --firstProjOne: #FF6868;
+  --firstProjTwo: #FFF5F5;
+
+  --secondProjOne: #2C705E;
+  --secondProjTwo: #F3EADA;
+
+  --thirdProjOne: #202020;
+  --thirdProjTwo: #4A4A4A;
+  --thirdProjNeon: #E4C2FF;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +17,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 20px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+html,
+body {
+  height: 100%;
 }

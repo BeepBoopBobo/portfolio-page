@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-page/static/css/main.553c74f2.css",
+    "main.js": "/portfolio-page/static/js/main.1933216c.js",
+    "static/js/787.28a6522c.chunk.js": "/portfolio-page/static/js/787.28a6522c.chunk.js",
+    "static/media/chatau-two.png": "/portfolio-page/static/media/chatau-two.341b19289d0f4a40e1fb.png",
+    "static/media/chatau-one.png": "/portfolio-page/static/media/chatau-one.0f1c84eb997780bceec4.png",
+    "static/media/chatau-three.png": "/portfolio-page/static/media/chatau-three.9d1b96dce3f44ac49d77.png",
+    "static/media/lights-out-one.png": "/portfolio-page/static/media/lights-out-one.41fd10636a3a28968f38.png",
+    "static/media/dnd-two.png": "/portfolio-page/static/media/dnd-two.c4a80fa5699fc311c8e0.png",
+    "static/media/clovece-nezlob-se.png": "/portfolio-page/static/media/clovece-nezlob-se.f2f65cd38be03b74485b.png",
+    "static/media/dnd-three.png": "/portfolio-page/static/media/dnd-three.020f24175f64fa99355e.png",
+    "static/media/lights-out-two.png": "/portfolio-page/static/media/lights-out-two.bcb8c8eea94727eb3dec.png",
+    "static/media/dnd-one.png": "/portfolio-page/static/media/dnd-one.b4410ac8a3e74b1c9c08.png",
+    "static/media/selfportraitOutline.png": "/portfolio-page/static/media/selfportraitOutline.97ad4459ebe5f8239ea6.png",
+    "index.html": "/portfolio-page/index.html",
+    "main.553c74f2.css.map": "/portfolio-page/static/css/main.553c74f2.css.map",
+    "main.1933216c.js.map": "/portfolio-page/static/js/main.1933216c.js.map",
+    "787.28a6522c.chunk.js.map": "/portfolio-page/static/js/787.28a6522c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.553c74f2.css",
+    "static/js/main.1933216c.js"
+  ]
+}

@@ -44,7 +44,7 @@ HEADER
 #header {
     width: 80%;
     height: 100vh;
-    padding-top: 40px;
+    padding-top: 100px;
     display: flex;
     justify-content: space-between;
     margin: auto;
@@ -160,7 +160,7 @@ PROJECTS
 }
 
 #main {
-    width: 40%;
+    width: 45%;
     align-self: center;
 }
 
@@ -269,6 +269,7 @@ ABOUT
     #header {
         display: block;
         width: 100%;
+        padding-top: 30px;
     }
 
     #modal-image {

@@ -179,6 +179,7 @@ PROJECTS
     justify-content: space-around;
     height: 100px;
     align-items: center;
+    gap: 20px;
 }
 
 .tag {
@@ -272,6 +273,13 @@ ABOUT
         padding-top: 30px;
     }
 
+    #bio-tags {
+        width: 60%;
+        gap: 5px;
+        margin: auto;
+        justify-content: space-between;
+    }
+
     #modal-image {
         width: 100%;
     }
@@ -299,12 +307,14 @@ ABOUT
         opacity: 70%;
     }
 
-    .tags {
-        width: 100%;
+    #tags {
+        justify-content: space-between;
     }
 
     .tag-button {
         height: fit-content;
+        margin: auto;
+
     }
 
     .tag {
@@ -323,6 +333,6 @@ ABOUT
     }
 
     #bonus-content {
-        margin-top: 50%;
+        margin-top: 300px;
     }
 }
